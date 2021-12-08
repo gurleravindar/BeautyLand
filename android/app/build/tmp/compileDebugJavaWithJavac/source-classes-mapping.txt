@@ -1,0 +1,15 @@
+com/beautyland/MainActivity.java
+ com.beautyland.MainActivity
+ com.beautyland.MainActivity$1
+com/beautyland/BuildConfig.java
+ com.beautyland.BuildConfig
+com/beautyland/MainApplication.java
+ com.beautyland.MainApplication
+ com.beautyland.MainApplication$1
+com/beautyland/ReactNativeFlipper.java
+ com.beautyland.ReactNativeFlipper
+ com.beautyland.ReactNativeFlipper$1
+ com.beautyland.ReactNativeFlipper$2
+ com.beautyland.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
