@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/quanteon/Desktop/BeautyLand/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/home/quanteon/Music/BeautyLand/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
                     "source": "/home/quanteon/.gradle/caches/transforms-3/442232dfc3bd4636261367c7466b9eb8/transformed/material-1.1.0/res/values-land/values-land.xml",
